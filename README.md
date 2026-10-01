@@ -8,7 +8,22 @@ direct pe ecranul telefonului.
 - Widget pe ecranul principal (mic și mediu) și pe ecranul de blocare.
 - Funcționează complet offline – Paștele și sărbătorile mobile se calculează automat pentru orice an.
 
-## Instalare pe iPhone
+## Varianta simplă: widget cu Scriptable (fără Mac)
+
+1. Instalează gratuit **Scriptable** din App Store.
+2. Pe iPhone, în Safari, deschide
+   https://raw.githubusercontent.com/stanculescumadalina-svg/calendar-ortodox/main/scriptable/CalendarOrtodox.js
+   → ține apăsat pe text → **Selectează tot** → **Copiază**.
+3. Deschide Scriptable → **+** (sus dreapta) → lipește textul.
+   Atinge titlul de sus și redenumește scriptul în `Calendar Ortodox` → **Done**.
+4. Pe ecranul principal: ține apăsat → **Editează** → **Adaugă widget** → caută **Scriptable**
+   → alege mărimea (mică sau medie) → **Adaugă widget**.
+5. Ține apăsat pe widget → **Editează widgetul** → la **Script** alege `Calendar Ortodox`.
+   La **When Interacting** lasă **Run Script**: atingerea widget-ului deschide lista completă.
+
+Merge la fel și pe ecranul de blocare (ține apăsat pe ecranul blocat → Personalizează → widget-uri → Scriptable).
+
+## Aplicația nativă (necesită Mac)
 
 Ai nevoie de un Mac cu **Xcode** (gratuit din App Store) și un cablu pentru telefon.
 
