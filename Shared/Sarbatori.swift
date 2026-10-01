@@ -41,6 +41,7 @@ enum CalendarOrtodox {
         (9, 8, "Nașterea Maicii Domnului"),
         (9, 14, "Înălțarea Sfintei Cruci"),
         (9, 26, "Mutarea Sf. Apostol și Evanghelist Ioan"),
+        (10, 1, "Acoperământul Maicii Domnului"),
         (10, 14, "Sf. Cuvioasă Parascheva"),
         (10, 26, "Sf. Mare Mucenic Dimitrie, Izvorâtorul de mir"),
         (10, 27, "Sf. Cuvios Dimitrie cel Nou, ocrotitorul Bucureștilor"),
